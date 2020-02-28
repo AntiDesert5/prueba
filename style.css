@@ -10,3 +10,9 @@ h1 {
 h2{
   color: #3444;
 }
+
+.main{
+  display: flex;
+  justify-content: space-around;
+  height: 70vh;
+}
